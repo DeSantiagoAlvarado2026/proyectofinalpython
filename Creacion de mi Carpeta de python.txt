@@ -1,0 +1,7 @@
+Sigue los siguientes pasos para el proyecto final, n o importando en que computadora se en cuentre
+
+
+1-crear la carpeta ProyectofinalDebyAlex, en Documentos va esta carpeta
+2- Descarga de tu repsitorio el proyectofnal.py y las imagenes creadas
+3 Realiza los cambios y las actividades de cada leccion 
+4- Sube a tu repositorio el proyecto final 
