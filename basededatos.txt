@@ -1,0 +1,5 @@
+1|mochila|3600|unisex
+2|pantalon|100|hombre
+3|camiseta|299|mujer
+4|bolsa|566|mujer
+5|zapatos|790|hombre
